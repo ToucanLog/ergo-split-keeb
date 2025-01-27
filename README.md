@@ -9,6 +9,6 @@ rp2040 based split keyboard with an ergodox esque layout, but with more keys
 
 NOTE: The firmware is for use with QMK (https://github.com/qmk/qmk_firmware), however this keyboard does not have an official commit yet. Thus, simply copy this keyboard's firmware into a new sub-folder in the "keyboards" folder and flash from there. See the QMK CLI docs for flashing the keyboard for extra help.
 
-`qmk flash -kb personal_keyboards/jason -km default -bl uf2-split-left`
+`qmk flash -kb "/ENTER PATH HERE" -km default -bl uf2-split-left`
 
-`qmk flash -kb personal_keyboards/jason -km default -bl uf2-split-right`
+`qmk flash -kb "/ENTER PATH HERE" -km default -bl uf2-split-right`
