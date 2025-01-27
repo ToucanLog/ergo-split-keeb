@@ -1,5 +1,5 @@
 # ergo-split-keeb
-rp2040 based split keyboard with an ergodox esque layout, but with more keys
+rp2040 based split keyboard with trrs and usb-c (2.0). Using an ergodox-esque layout, but I wanted even more keys...
 
 
 ![IMG_3883](https://github.com/user-attachments/assets/33cdcf36-450d-40ae-8aec-4aabae7ff8bb)
