@@ -12,3 +12,7 @@ NOTE: The firmware is for use with QMK (https://github.com/qmk/qmk_firmware), ho
 `qmk flash -kb "/ENTER PATH HERE" -km default -bl uf2-split-left`
 
 `qmk flash -kb "/ENTER PATH HERE" -km default -bl uf2-split-right`
+
+See Schematic for 1 PCB (Left)
+
+[JasonSplitErgoKeyboard_Left.pdf](https://github.com/user-attachments/files/18989688/JasonSplitErgoKeyboard_Left.pdf)
