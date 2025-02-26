@@ -15,4 +15,6 @@ NOTE: The firmware is for use with QMK (https://github.com/qmk/qmk_firmware), ho
 
 See Schematic for 1 PCB (Left)
 
-[JasonSplitErgoKeyboard_Left.pdf](https://github.com/user-attachments/files/18989688/JasonSplitErgoKeyboard_Left.pdf)
+![JasonSplitErgoKeyboard_Left-1](https://github.com/user-attachments/assets/c1b50358-a8a6-4ef7-a81d-56d4f0f06aa2)
+
+![image](https://github.com/user-attachments/assets/925539cd-4665-4c50-96a6-b3fb7914708b)
